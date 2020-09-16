@@ -19,6 +19,11 @@
 * [Career Guide](https://pontoonapps.com/careerguide/), a web app which utilizes a recommender
   system to match users to job roles which potentially suit them based on a questionnaire
 
+### Bored?
+
+<iframe height=150 width=150 src=https://javarip.github.io/snake/></iframe>
+
+Control with the arrow keys, see the [source code here](https://github.com/JavaRip/snake)
 <!-- **JavaRip/JavaRip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears
 on your GitHub profile.
 
