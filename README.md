@@ -19,6 +19,10 @@
 * [Career Guide](https://pontoonapps.com/careerguide/), a web app which utilizes a recommender
   system to match users to job roles which potentially suit them based on a questionnaire
 
+### How to contact me
+
+To get in touch send me an email at kane.swartz@myport.ac.uk
+
 <!-- **JavaRip/JavaRip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears
 on your GitHub profile.
 
