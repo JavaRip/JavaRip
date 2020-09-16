@@ -22,7 +22,7 @@
 ### Bored?
 
 <figure>
-  <iframe height=150 width=150 src=https://javarip.github.io/snake/></iframe>
+  <iframe height="150" width="150" src="https://javarip.github.io/snake/"></iframe>
 </figure>
 
 Control with the arrow keys, see the [source code here](https://github.com/JavaRip/snake)
