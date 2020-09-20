@@ -23,6 +23,8 @@
 
 To get in touch send me an email at kane.swartz@myport.ac.uk
 
+[Click Here](https://javarip.github.io/CVWebpage/) to see my CV
+
 <!-- **JavaRip/JavaRip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears
 on your GitHub profile.
 
