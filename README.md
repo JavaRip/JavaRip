@@ -25,8 +25,6 @@ To get in touch send me an email at kane.swartz@myport.ac.uk
 
 [Click Here](https://javarip.github.io/CVWebpage/) to see my CV
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavaRip)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- **JavaRip/JavaRip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears
 on your GitHub profile.
 
